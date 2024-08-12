@@ -1,6 +1,6 @@
 # APIWizards Breach
 
-Link: [APIDWizards Breach](https://tryhackme.com/r/room/apiwizardsbreach)
+Link: [APIWizards Breach](https://tryhackme.com/r/room/apiwizardsbreach)
 
 ## High-Level Overview
 
